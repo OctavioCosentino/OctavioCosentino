@@ -116,14 +116,17 @@
 
 ### `htop` // GitHub Metrics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioCosentino&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=6A5ACD&bg_color=00000000&border_color=8A2BE2" height="195" alt="Octavio's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioCosentino&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&border_color=8A2BE2" height="195" alt="Top Languages" />
-</p>
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioCosentino&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=6A5ACD&bg_color=00000000&border_color=8A2BE2" width="48%" height="195" alt="Octavio's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioCosentino&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&border_color=8A2BE2" width="48%" height="195" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OctavioCosentino&theme=transparent&title_color=8A2BE2&text_color=ffffff&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=8A2BE2" alt="GitHub Streak" />
-</p>
+</div>
 
 <!-- 4. FOOTER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL SIN TEXTO) -->
 <div align="center">
