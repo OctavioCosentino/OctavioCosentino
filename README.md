@@ -1,46 +1,52 @@
 <!-- 1. HEADER BANNER ANIMADO (OLA VIOLETA) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=4B0082,8A2BE2,9932CC&amp;height=250&amp;section=header&amp;text=Octavio%20Cosentino&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=IT%20Analyst%20%26%20Computer%20Engineering%20Student&amp;descSize=22&amp;descAlignY=58" alt="Octavio Cosentino Animated Banner" width="100%" />
-</p>
+<div align="center">
+
+![Octavio Cosentino Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9932CC&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20%26%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)
+
+</div>
+
+<br/>
 
 <!-- 2. ANIMATED TEXT (TYPING EFFECT) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=>+IT+Analyst+%26+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices" alt="Typing SVG" />
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=>+IT+Analyst+%26+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices)
+
+</div>
 
 <br/>
 
 <!-- 3. TECH STACK BADGES (ESTILO FILAS/COLUMNAS) -->
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-6A5ACD?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-8A2BE2?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/TailwindCSS-9932CC?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-6A5ACD?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/TailwindCSS-9932CC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-6A5ACD?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Spring_Boot-8A2BE2?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Microservices-9932CC?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-6A5ACD?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Spring_Boot-8A2BE2?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Microservices-9932CC?style=for-the-badge&logo=docker&logoColor=white" alt="Microservices" />
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-8A2BE2?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-9932CC?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-8A2BE2?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-9932CC?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 <h3 align="center">☁️ DevOps & Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-6A5ACD?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-9932CC?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-6A5ACD?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-9932CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <br/>
@@ -66,6 +72,10 @@
     "backend": ["Node.js", "Express", "Spring Boot", "Microservices"],
     "databases": ["PostgreSQL", "MongoDB", "Redis", "Supabase"],
     "devops_&_cloud": ["Docker", "Linux", "Git", "Vercel", "Render"]
+  },
+  "spoken_languages": {
+    "Spanish": "Native",
+    "English": "Fluent / C1 Advanced (Cambridge Certified, studying in bilingual academies since age 3)"
   }
 }
 ```
