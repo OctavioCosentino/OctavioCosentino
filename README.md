@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-6A5ACD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-00008B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-191970?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
@@ -59,7 +60,14 @@
     "📊 Academic Status: 33/49 subjects passed (GPA: 7.98)",
     "⚡ Fun fact: I play the guitar 🎸🎸"
   ],
-  "about": "IT Analyst and advanced Computer Engineering student with a comprehensive vision of the software development lifecycle. Oriented towards designing scalable architectures and solving complex technical problems. I excel at driving teamwork, facilitating communication, and organizing priorities to achieve project goals together.",
+  "about": [
+    "IT Analyst and advanced Computer Engineering student with a",
+    "comprehensive vision of the software development lifecycle.",
+    "Oriented towards designing scalable architectures and solving",
+    "complex technical problems. I excel at driving teamwork,",
+    "facilitating communication, and organizing priorities to",
+    "achieve project goals together."
+  ],
   "tech_stack": {
     "languages": ["TypeScript", "Java", "Python", "SQL"],
     "frontend": ["React", "Next.js", "React Native", "TailwindCSS"],
