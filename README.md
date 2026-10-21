@@ -1,24 +1,44 @@
-<!-- 1. HEADER BANNER -->
-<!-- Design a banner in Figma with your colors and upload it to your repository. Then replace the URL below. -->
+<!-- 1. HEADER BANNER ANIMADO (OLA VIOLETA) -->
 <div align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE.png" alt="Octavio Cosentino Banner" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9932CC&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20%26%20Computer%20Engineering%20Student&descSize=22&descAlignY=58](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,8A2BE2,9932CC&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20%26%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)" alt="Octavio Cosentino Animated Banner" width="100%" />
 </div>
 
 <br/>
 
 <!-- 2. ANIMATED TEXT (TYPING EFFECT) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EBA6E&center=true&vCenter=true&width=800&lines=>+IT+Analyst+%26+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=)>+IT+Analyst+%26+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- 3. BADGES / TAGS -->
+<!-- 3. TECH STACK BADGES (ESTILO FILAS/COLUMNAS) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_DEV-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/BACKEND-SPRING_BOOT_%26_NODE-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/INFRASTRUCTURE-DOCKER_%26_LINUX-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATABASES-POSTGRES_%26_MONGO-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <h3>💻 Frontend</h3>
+  <img src="[https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Next.js-6A5ACD?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/Next.js-6A5ACD?style=for-the-badge&logo=next.js&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/React_Native-8A2BE2?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/React_Native-8A2BE2?style=for-the-badge&logo=react&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/TailwindCSS-9932CC?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/TailwindCSS-9932CC?style=for-the-badge&logo=tailwindcss&logoColor=white)" />
+
+  <h3>⚙️ Backend</h3>
+  <img src="[https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Express-6A5ACD?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express-6A5ACD?style=for-the-badge&logo=express&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Spring_Boot-8A2BE2?style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/Spring_Boot-8A2BE2?style=for-the-badge&logo=spring&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Microservices-9932CC?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Microservices-9932CC?style=for-the-badge&logo=docker&logoColor=white)" />
+
+  <h3>🗄️ Databases</h3>
+  <img src="[https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4B0082?style=for-the-badge&logo=postgresql&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-6A5ACD?style=for-the-badge&logo=mongodb&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Redis-8A2BE2?style=for-the-badge&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-8A2BE2?style=for-the-badge&logo=redis&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Supabase-9932CC?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-9932CC?style=for-the-badge&logo=supabase&logoColor=white)" />
+
+  <h3>☁️ DevOps & Tools</h3>
+  <img src="[https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-4B0082?style=for-the-badge&logo=docker&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Linux-6A5ACD?style=for-the-badge&logo=linux&logoColor=white](https://img.shields.io/badge/Linux-6A5ACD?style=for-the-badge&logo=linux&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Vercel-9932CC?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Vercel-9932CC?style=for-the-badge&logo=vercel&logoColor=white)" />
+
 </div>
 
 <br/>
@@ -33,7 +53,8 @@
   "title": "IT Analyst & Advanced Computer Engineering Student",
   "intro": [
     "👋 Hi, I’m @OctavioCosentino",
-    "🏫 I’m studying Computer Engineering",
+    "🏫 I’m in my 4th year of Computer Engineering",
+    "📊 Academic Status: 33/49 subjects passed (GPA: 7.98)",
     "⚡ Fun fact: I play the guitar 🎸🎸"
   ],
   "about": "IT Analyst and advanced Computer Engineering student with a comprehensive vision of the software development lifecycle. Oriented towards designing scalable architectures and solving complex technical problems. I excel at driving teamwork, facilitating communication, and organizing priorities to achieve project goals together.",
