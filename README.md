@@ -111,3 +111,22 @@
 - Developed the business logic and REST API in the backend using Java and Spring Boot, integrating a MySQL database.
 - Programmed dynamic frontend components using React to enhance end-user interactivity.
 - Conducted live functional demonstrations of the platform during sprint reviews for the teaching staff.
+
+---
+
+### `htop` // GitHub Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioCosentino&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=6A5ACD&bg_color=00000000&hide_border=true" alt="Octavio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioCosentino&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OctavioCosentino&theme=transparent&title_color=8A2BE2&text_color=ffffff&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- 4. FOOTER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL SIN TEXTO) -->
+<div align="center">
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191970,2A0066,4B0082&height=150&section=footer)
+
+</div>
