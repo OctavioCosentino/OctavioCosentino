@@ -1,11 +1,9 @@
 <!-- 1. HEADER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL) -->
 <div align="center">
 
-![Octavio Cosentino Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,2A0066,00008B&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20and%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)
+![Octavio Cosentino Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191970,2A0066,4B0082&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20and%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)
 
 </div>
-
-<br/>
 
 <!-- 2. ANIMATED TEXT (TYPING EFFECT) -->
 <div align="center">
@@ -13,8 +11,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=>+IT+Analyst+and+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices)
 
 </div>
-
-<br/>
 
 <!-- 3. TECH STACK BADGES (ESTILO FILAS/COLUMNAS) -->
 <h3 align="center">💻 Frontend</h3>
@@ -48,8 +44,6 @@
   <img src="https://img.shields.io/badge/Git-6A5ACD?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-00008B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-<br/>
 
 ---
 
