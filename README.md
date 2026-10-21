@@ -1,7 +1,7 @@
 <!-- 1. HEADER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL) -->
 <div align="center">
 
-![Octavio Cosentino Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191970,2A0066,4B0082&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20and%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)
+![Octavio Cosentino Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=191970,2A0066,4B0082&height=250&section=header&text=Octavio%20Cosentino&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Analyst%20and%20Computer%20Engineering%20Student&descSize=22&descAlignY=58)
 
 </div>
 
