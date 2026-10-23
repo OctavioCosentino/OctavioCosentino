@@ -1,8 +1,6 @@
 <!-- 1. HEADER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL) -->
 <div align="center">
-
-<img src="./banner.svg" alt="Octavio Cosentino - IT Analyst and Computer Engineering Student" width="100%">
-
+  <img src="./banner.svg" alt="Octavio Cosentino - IT Analyst and Computer Engineering Student" width="100%">
 </div>
 
 <!-- 2. ANIMATED TEXT (TYPING EFFECT) -->
@@ -11,6 +9,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=>+IT+Analyst+and+Computer+Engineering+Student;>+Full-Stack+Developer;>+Designing+scalable+architectures;>+Building+with+Microservices)
 
 </div>
+
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/octavio-cosentino-58a8a12b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2A0066?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+<br/>
 
 <!-- 3. TECH STACK BADGES (ESTILO FILAS/COLUMNAS) -->
 <h3 align="center">💻 Frontend</h3>
@@ -81,13 +87,6 @@
   }
 }
 ```
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/octavio-cosentino-58a8a12b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2A0066?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-<br/>
 
 ---
 
@@ -127,9 +126,9 @@ _Web Development Project | 2025 | Duration: 4 months_
 ### `htop` // GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioCosentino&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=6A5ACD&bg_color=00000000&border_color=8A2BE2" width="48%" height="195" alt="Octavio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioCosentino&show_icons=true&theme=transparent&title_color=8A2BE2&text_color=ffffff&icon_color=6A5ACD&bg_color=00000000&border_color=8A2BE2" height="165" alt="Octavio's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioCosentino&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&border_color=8A2BE2" width="48%" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioCosentino&layout=compact&theme=transparent&title_color=8A2BE2&text_color=ffffff&bg_color=00000000&border_color=8A2BE2" height="165" alt="Top Languages" />
 </div>
 
 <br/>
@@ -140,7 +139,5 @@ _Web Development Project | 2025 | Duration: 4 months_
 
 <!-- 4. FOOTER BANNER ANIMADO (OLA VIOLETA OSCURO/AZUL SIN TEXTO) -->
 <div align="center">
-
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=191970,2A0066,4B0082&height=150&section=footer)
-
+  <img src="./final_banner.svg" alt="Footer Banner" width="100%">
 </div>
