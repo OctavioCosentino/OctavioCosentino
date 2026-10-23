@@ -12,14 +12,6 @@
 
 </div>
 
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/octavio-cosentino-58a8a12b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2A0066?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-<br/>
-
 <!-- 3. TECH STACK BADGES (ESTILO FILAS/COLUMNAS) -->
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
@@ -89,6 +81,13 @@
   }
 }
 ```
+<!-- SOCIAL LINKS -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/octavio-cosentino-58a8a12b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2A0066?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+<br/>
 
 ---
 
