@@ -93,6 +93,7 @@
 ### 🚀 Featured Projects
 
 **Grand Prix Tracker - F1 Experience Web Platform | Full-Stack Developer**  
+[![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OctavioCosentino/grand-prix-tracker-web) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/grand-prix-tracker-api)  
 _Engineering Project | 2026 | Duration: 6 months_
 
 - Developed a comprehensive transactional platform for booking Formula 1 Grand Prix packages, covering the entire software lifecycle under agile methodologies.
@@ -104,6 +105,7 @@ _Engineering Project | 2026 | Duration: 6 months_
 <br/>
 
 **PoleBid - Mobile Auction Application | Mobile / Frontend Developer**  
+[![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/PoleBid_FRONT) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/PoleBid)  
 _Engineering Project | 2026 | Duration: 6 months_
 
 - Developed a mobile application for auction management within a four-member agile team over a 6-month development cycle.
@@ -114,6 +116,7 @@ _Engineering Project | 2026 | Duration: 6 months_
 <br/>
 
 **ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**  
+[![Frontend Repo](https://github.com/mate58/ProfeRank)
 _Web Development Project | 2025 | Duration: 4 months_
 
 - Built a web platform allowing students to rank and evaluate professors, completed across four agile sprints.
