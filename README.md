@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Render-191970?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
----
+<img width="100%" src="./divider.svg" alt="" />
 
 ### `whoami` // About Me
 
@@ -87,7 +87,8 @@
   </a>
 </div>
 <br/>
----
+
+<img width="100%" src="./divider.svg" alt="" />
 
 ### 🚀 Featured Projects
 
@@ -120,7 +121,7 @@ _Web Development Project | 2025 | Duration: 4 months_
 - Programmed dynamic frontend components using React to enhance end-user interactivity.
 - Conducted live functional demonstrations of the platform during sprint reviews for the teaching staff.
 
----
+<img width="100%" src="./divider.svg" alt="" />
 
 ### `htop` // GitHub Metrics & Activity
 
