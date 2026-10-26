@@ -80,6 +80,8 @@
 }
 ```
 
+<img width="100%" src="./divider.svg" alt="" />
+
 <!-- SOCIAL LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/octavio-cosentino-58a8a12b8" target="_blank">
