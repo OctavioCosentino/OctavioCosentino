@@ -129,7 +129,7 @@ _Engineering Project | 2025 | Duration: 6 months_
 <br/>
 
 **ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**<br>  
-[![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/ProfeRank)
+[![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/ProfeRank)<br>
 _Web Development Project | 2025 | Duration: 4 months_
 
 - Built a web platform allowing students to rank and evaluate professors, completed across four agile sprints.
