@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="200" viewBox="0 0 940 200">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;fill:#ede9fe}</style>
+<rect x="0.5" y="0.5" width="939" height="199" rx="10" fill="#0d0420" stroke="#8a2be2" stroke-opacity="0.8"/>
+<text x="24" y="40" font-size="18" font-weight="700" fill="#c084fc">Contribution Streak</text><text x="157" y="120" text-anchor="middle" font-size="40" font-weight="700" fill="#c4b5fd">1</text><text x="157" y="150" text-anchor="middle" fill="#a78bfa">Current Streak (days)</text><text x="470" y="120" text-anchor="middle" font-size="40" font-weight="700" fill="#c4b5fd">172</text><text x="470" y="150" text-anchor="middle" fill="#a78bfa">Contributions (last year)</text><text x="783" y="120" text-anchor="middle" font-size="40" font-weight="700" fill="#c4b5fd">4</text><text x="783" y="150" text-anchor="middle" fill="#a78bfa">Longest Streak (days)</text>
+</svg>
