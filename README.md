@@ -117,6 +117,17 @@ _Engineering Project | 2026 | Duration: 6 months_
 
 <br/>
 
+**VelociWear - F1 Ecommerce web platform | Full-Stack Developer**
+[![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/API-Front) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/API-Back)  
+_Engineering Project | 2025 | Duration: 6 months_
+
+- Developed a comprehensive e-commerce platform for Formula 1 merchandising, structuring the development lifecycle across multiple agile sprints.
+- Built the frontend interface using React and Tailwind CSS, implementing Redux for scalable and clean global state management with high engineering standards to ensure a fully functional shopping cart.
+- Engineered the business logic and REST API in the backend using Java and Spring Boot, with a technical focus on service orchestration, data consistency, and the secure processing of commercial transactions.
+- Conducted group presentations of technical and functional progress at the end of each sprint, validating the ecosystem's integration before evaluators.
+
+<br/>
+
 **ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**  
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/ProfeRank)
 _Web Development Project | 2025 | Duration: 4 months_
