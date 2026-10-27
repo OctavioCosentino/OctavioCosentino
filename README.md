@@ -94,7 +94,7 @@
 
 ### 🚀 Featured Projects
 
-**Grand Prix Tracker - F1 Experience Web Platform | Full-Stack Developer**  
+**Grand Prix Tracker - F1 Experience Web Platform | Full-Stack Developer**<br>
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OctavioCosentino/grand-prix-tracker-web) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/grand-prix-tracker-api)  
 _Engineering Project | 2026 | Duration: 6 months_
 
@@ -106,7 +106,7 @@ _Engineering Project | 2026 | Duration: 6 months_
 
 <br/>
 
-**PoleBid - Mobile Auction Application | Mobile / Frontend Developer**  
+**PoleBid - Mobile Auction Application | Mobile / Frontend Developer**<br>
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/PoleBid_FRONT) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericzager0/PoleBid)  
 _Engineering Project | 2026 | Duration: 6 months_
 
@@ -117,7 +117,7 @@ _Engineering Project | 2026 | Duration: 6 months_
 
 <br/>
 
-**VelociWear - F1 Ecommerce web platform | Full-Stack Developer**
+**VelociWear - F1 Ecommerce web platform | Full-Stack Developer**<br>
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/API-Front) [![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/API-Back)  
 _Engineering Project | 2025 | Duration: 6 months_
 
@@ -128,7 +128,7 @@ _Engineering Project | 2025 | Duration: 6 months_
 
 <br/>
 
-**ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**  
+**ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**<br>  
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/ProfeRank)
 _Web Development Project | 2025 | Duration: 4 months_
 
