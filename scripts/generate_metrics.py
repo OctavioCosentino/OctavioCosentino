@@ -126,17 +126,49 @@ def streak_stats(days):
     return current, longest, sum(counts)
 
 
+def icon(kind, cx, cy):
+    shapes = {
+        "fire": '<path d="M12 2C12 2 17 7 17 12.5A5 5 0 0 1 7 12.5C7 9 9 7.5 10 5.5C10.8 7.6 12 8.5 12 8.5C12 8.5 11 5.5 12 2Z" fill="#fff"/>',
+        "bars": ('<rect x="4" y="12" width="4" height="8" rx="1" fill="#fff"/>'
+                 '<rect x="10" y="7" width="4" height="13" rx="1" fill="#fff"/>'
+                 '<rect x="16" y="3" width="4" height="17" rx="1" fill="#fff"/>'),
+        "star": '<polygon points="12,2 15,9 22,9 16.5,13.5 18.5,21 12,16.8 5.5,21 7.5,13.5 2,9 9,9" fill="#fff"/>',
+    }
+    return f'<g transform="translate({cx - 12} {cy - 12})">{shapes[kind]}</g>'
+
+
 def build_streak(current, longest, total):
-    items = [
-        (157, f"{current}", "Current Streak (days)"),
-        (470, f"{total}", "Contributions (last year)"),
-        (783, f"{longest}", "Longest Streak (days)"),
+    cols = [
+        (157, f"{current}", "Current Streak (days)", "fire"),
+        (470, f"{total}", "Contributions (last year)", "bars"),
+        (783, f"{longest}", "Longest Streak (days)", "star"),
     ]
-    body = f'<text x="24" y="40" font-size="18" font-weight="700" fill="{TITLE}">Contribution Streak</text>'
-    for x, value, label in items:
-        body += (f'<text x="{x}" y="120" text-anchor="middle" font-size="40" font-weight="700" '
-                 f'fill="{ACC}">{value}</text>'
-                 f'<text x="{x}" y="150" text-anchor="middle" fill="{MUTED}">{esc(label)}</text>')
+    defs = (
+        '<defs>'
+        '<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">'
+        '<stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#4c1d95"/></linearGradient>'
+        '<linearGradient id="sep" x1="0" y1="0" x2="1" y2="0">'
+        '<stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/>'
+        '<stop offset="0.5" stop-color="#a78bfa"/>'
+        '<stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>'
+        '<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">'
+        '<feGaussianBlur stdDeviation="4" result="b"/>'
+        '<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>'
+        '</defs>'
+    )
+    body = defs
+    body += f'<text x="28" y="40" font-size="18" font-weight="700" fill="{TITLE}">Contribution Streak</text>'
+    body += '<rect x="28" y="54" width="884" height="1" fill="url(#sep)"/>'
+    body += '<line x1="310" y1="78" x2="310" y2="186" stroke="#4c1d95" stroke-opacity="0.6"/>'
+    body += '<line x1="630" y1="78" x2="630" y2="186" stroke="#4c1d95" stroke-opacity="0.6"/>'
+    for cx, value, label, kind in cols:
+        body += (
+            f'<circle cx="{cx}" cy="100" r="36" fill="none" stroke="#6d28d9" stroke-opacity="0.35"/>'
+            f'<circle cx="{cx}" cy="100" r="29" fill="url(#ring)" filter="url(#glow)"/>'
+            + icon(kind, cx, 100)
+            + f'<text x="{cx}" y="162" text-anchor="middle" font-size="28" font-weight="700" fill="{ACC}">{value}</text>'
+            + f'<text x="{cx}" y="184" text-anchor="middle" font-size="13" fill="{MUTED}">{esc(label)}</text>'
+        )
     return card(940, 200, body)
 
 

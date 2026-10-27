@@ -135,7 +135,11 @@ _Web Development Project | 2025 | Duration: 4 months_
 <img width="49%" src="./assets/stats.svg" alt="GitHub Stats" />
 <img width="49%" src="./assets/langs.svg" alt="Most Used Languages" />
 
-<br/><br/>
+<br/>
+
+<img width="100%" src="./assets/divider.svg" alt="" />
+
+<br/>
 
 <img width="98%" src="./assets/streak.svg" alt="Contribution Streak" />
 
