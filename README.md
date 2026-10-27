@@ -123,18 +123,18 @@ _Engineering Project | 2025 | Duration: 6 months_
 
 - Developed a comprehensive e-commerce platform for Formula 1 merchandising, structuring the development lifecycle across multiple agile sprints.
 - Built the frontend interface using React and Tailwind CSS, implementing Redux for scalable and clean global state management with high engineering standards to ensure a fully functional shopping cart.
-- Engineered the business logic and REST API in the backend using Java and Spring Boot, with a technical focus on service orchestration, data consistency, and the secure processing of commercial transactions.
+- Engineered the business logic and REST API in the backend using Java and Spring Boot integrating a MySQL database, with a technical focus on service orchestration, data consistency, and the secure processing of commercial transactions.
 - Conducted group presentations of technical and functional progress at the end of each sprint, validating the ecosystem's integration before evaluators.
 
 <br/>
 
 **ProfeRank - Academic Evaluation Web Platform | Full-Stack Developer**<br>
 [![Frontend Repo](https://img.shields.io/badge/Frontend-2A0066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mate58/ProfeRank)[![Backend Repo](https://img.shields.io/badge/Backend-4B0082?style=for-the-badge&logo=github&logoColor=white)]()  
-_Web Development Project | 2025 | Duration: 4 months_
+_Web Development Project | 2025 | Duration: 6 months_
 
 - Built a web platform allowing students to rank and evaluate professors, completed across four agile sprints.
-- Developed the business logic and REST API in the backend using Java and Spring Boot, integrating a MySQL database.
-- Programmed dynamic frontend components using React to enhance end-user interactivity.
+- Used the Google Firebase platform for backend as a service
+- Programmed dynamic frontend components using React and pure CSS to enhance end-user interactivity.
 - Conducted live functional demonstrations of the platform during sprint reviews for the teaching staff.
 
 <img width="100%" src="./divider.svg" alt="" />
